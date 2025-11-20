@@ -10,4 +10,4 @@ A few things about me:
 
 - Love reading and exploring new tech
 
-I am Porsche, no brakes—always building, always moving and sharing what I discover.
+I am Porsche with no brakes, always building, always moving
