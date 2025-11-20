@@ -6,12 +6,10 @@ I also make content about AI and tech, and over 80,000 people follow my work onl
 
 A few things about me:
 
-🔧 Building SaaS products powered by AI agents
+- Working on SaaS
 
-🤖 Creating automations and chatbots for businesses
+- Love reading and exploring new tech
 
-🎥 Sharing simple lessons about AI tools and automation
+- I am Porsche no brakes, always building, always moving
 
-📈 Growing brands, building systems, and chasing big goals
-
-📚 I enjoy reading, learning new skills, and improving every day
+Always building, learning, and sharing what I discover
