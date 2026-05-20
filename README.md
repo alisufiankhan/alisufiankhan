@@ -43,14 +43,14 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisufiankhan&show_icons=true&theme=radium&hide_border=true" alt="Ali's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=alisufiankhan&show_icons=true&theme=radium&hide_border=true" alt="Ali's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisufiankhan&theme=radium&hide_border=true" alt="Ali's GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisufiankhan&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alisufiankhan&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 <br>
