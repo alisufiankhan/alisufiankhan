@@ -54,8 +54,3 @@
 </div>
 
 <br>
-
----
-<div align="center">
-  <i>"Making work faster and smarter, one AI agent at a time."</i>
-</div>
