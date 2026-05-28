@@ -19,8 +19,10 @@
 - I’m currently building **SaaS tools that solve real problems**
 - Passionate about **Agentic AI, GenAI, and Automations**
 - I love reading and exploring new tech
-- Fun fact: *I am a Porsche with no brakes.*
 - Over **80,000 people** follow my content about AI and tech online!
+
+*I am a Porsche with no brakes.*
+
 
 <br>
 
