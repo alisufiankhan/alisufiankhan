@@ -41,3 +41,6 @@
 </p>
 
 <br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=alisufiankhan&color=2563EB&style=flat-square&label=Profile+Views&base=1000)
+
