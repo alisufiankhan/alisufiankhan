@@ -16,7 +16,6 @@
 
 ### 👨‍💻 About Me
 
-- I’m currently building **SaaS tools that solve real problems**
 - Passionate about **Agentic AI, GenAI, and Automations**
 - I love reading and exploring new tech
 - Over **80,000 people** follow my content about AI and tech online!
