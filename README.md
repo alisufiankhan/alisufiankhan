@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Ali Sufian 👋</h1>
-  <h3>I build AI agents, automations, and GenAI products that make work faster and smarter.</h3>
+  <h3>I build things that solve problems I run into.</h3>
   
   <p align="center">
     <a href="https://twitter.com/aliscodes" target="_blank">
